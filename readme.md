@@ -1,4 +1,4 @@
-# ![haast]()
+# ![Haast](https://raw.githubusercontent.com/ngryman/artworks/master/haast/heading/haast@2x.png)
 
 [![travis][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
 
