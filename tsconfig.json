@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "noUnusedLocals": true,
+    "target": "es5",
+    "watch": false,
+    "baseUrl": ".",
+    "alwaysStrict": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": ["es5", "es6"],
+    "skipLibCheck": true
+  },
+  "include": [
+    "src/*.ts"
+  ]
+}
